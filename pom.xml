@@ -32,8 +32,9 @@
         <module>yudao-module-oa</module>
         <module>yudao-module-im</module>
 <!-- 请参考 https://doc.iocoder.cn/ai/build/ 文档，完成 AI 模块的启动！！！ -->
-<!-- AI 模块源码基于 Spring Boot 3 / JDK17 分支，JDK8 分支无法编译，需切换到 master-jdk17 -->
-       <module>yudao-module-ai</module>
+<!--        <module>yudao-module-ai</module>-->
+<!--        <module>yudao-module-ai1-springai</module>-->
+        <module>yudao-module-ai</module>
     </modules>
 
     <name>${project.artifactId}</name>
